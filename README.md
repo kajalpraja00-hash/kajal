@@ -2,10 +2,8 @@
 <h3 align="center">Passionate about Data Analytics | Turning Data into Insights 📊</h3>
 
 
-  <img  align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" alt="Profile views" >
-
-
-  <img align="left" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?utm_source=chatgpt.com" alt="Coding animation"  width="300">
+ 
+  <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?utm_source=chatgpt.com" alt="Coding animation"  width="300">
 
 
 
